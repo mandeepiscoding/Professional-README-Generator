@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This is a command-line application designed to generate a professional README.me file for a project. It utilizes the Inquirer package to prompt the user for information about their project repo and then generates a README.md file based on the input.  
+This is a command-line application designed to generate a professioanl README.md file for a project. It utilizes the Inquirer package to prompt the user for information about their project repo and then generates a README.md file based on the input.  
 
 ## Table of Contents
 
@@ -22,10 +22,10 @@ Install Node.js, then run 'npm install'.
 
 ## Usage
 
-Run the script using Node.js by running 'node index.js' or any name that you have.
+Run the script using Node.js by running 'node index.js" or any name that you may use for your .js file.
 
-![alt Professional README.](None yet.)
-[Demo Video](Not yet.)
+![alt Generated README.md file.](assets/ss.png)
+[Demo Video](assets/video.webm)
 
 ## Credits
 
@@ -42,7 +42,7 @@ Please refer to the Contributor Covenant for guidelines.
 
 ## Tests
 
-N/A
+N/A.
 
 ## Questions
 

@@ -1,5 +1,4 @@
-
-# Professional README Generator.
+# Professional-README-Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -22,10 +21,10 @@ Install Node.js, then run 'npm install'.
 
 ## Usage
 
-Run the script using Node.js by running 'node index.js" or any name that you may use for your .js file.
+N/A
 
-![alt Generated README.md file.](assets/ss.png)
-[Demo Video](assets/video.webm)
+![alt Screenshot of README Generator Application in Terminal.](assets/ss.png)
+[Demo Video](N/A)
 
 ## Credits
 
@@ -38,14 +37,14 @@ This application is covered under the MIT License.
 <a id="guidelines"></a>
 ## How To Contribute
 
-Please refer to the Contributor Covenant for guidelines.
+N/A
 
 ## Tests
 
-N/A.
+N/A
 
 ## Questions
 
-[GitHub Profile](https://github.com/https://github.com/mandeepiscoding)
+[GitHub Profile](https://github.com/https://github.com/https://github.com/mandeepiscoding)
 
 For questions, please contact mannysingh0829@gmail.com.
